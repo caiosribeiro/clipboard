@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@500&family=Raleway:wght@100&display=swap');
+body{
+	font-family: 'Outfit', sans-serif;
+	font-size: 15px;
+	text-align: center;
+ }
+
+
+button{
+	box-shadow: 0.3px 0.3px 0.3px 0.3px black;
+	border: 1px solid transparent;
+	border-radius: 25px;
+	padding: 7px 23px;
+	color: white;
+}
+
+#bdireita{
+	background: #6173ff;
+}
+
+#besquerda{
+	background: #26baa4;
+}
+
+footer{
+	background: #f1f3f4;
+	color: 	#4c545d;
+}
+
+p{
+	color: 	#9fabb2;
+}
+
+
+/*----PARTE1------*/
+
+#bg-primeira-parte{
+	background: url(images/bg-header-desktop.png);
+}
+
+
+/*-----PARTE2-----*/
+
+
+#desc-segunda-parte{
+	text-align: left;
+}
+
+/*--------PARTE5------*/
+
+#quinta-parte img{
+	width: 10%;
+}
+
+/*-------PARTE6------*/
+
+.ajuste{
+	margin-right: 115px;
+}
+
+#ajuste{
+	padding-left: -200px;
+}
+
+#imagens-ultima img{
+	padding-right: 5%;
+	margin-top: 10%;
+}

@@ -3,8 +3,8 @@ body{
 	font-family: 'Outfit', sans-serif;
 	font-size: 15px;
 	text-align: center;
+	width: 100%;
  }
-
 
 button{
 	box-shadow: 0.3px 0.3px 0.3px 0.3px black;
@@ -12,6 +12,10 @@ button{
 	border-radius: 25px;
 	padding: 7px 23px;
 	color: white;
+}
+
+.ajuste{
+	width: 100%;
 }
 
 #bdireita{
@@ -25,6 +29,7 @@ button{
 footer{
 	background: #f1f3f4;
 	color: 	#4c545d;
+	width: 100%;
 }
 
 p{
@@ -36,6 +41,7 @@ p{
 
 #bg-primeira-parte{
 	background: url(images/bg-header-desktop.png);
+	background-size: 100% 100%;
 }
 
 
